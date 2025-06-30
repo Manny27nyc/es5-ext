@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 "use strict";
 
 var isClassStr = RegExp.prototype.test.bind(/^\s*class[\s{/}]/)

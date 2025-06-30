@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 // Inspired by: http://documentcloud.github.com/underscore/#compact
 
 "use strict";

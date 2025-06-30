@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 // Some tests taken from: https://github.com/mathiasbynens/Array.from/blob/master/tests/tests.js
 
 "use strict";

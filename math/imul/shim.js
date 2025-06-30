@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /* eslint no-bitwise: "off" */
 
 // Thanks: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 // Workaround for http://code.google.com/p/v8/issues/detail?id=2804
 
 "use strict";

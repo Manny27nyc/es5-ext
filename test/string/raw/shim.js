@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 // Partially taken from:
 // https://github.com/paulmillr/es6-shim/blob/master/test/string.js
 

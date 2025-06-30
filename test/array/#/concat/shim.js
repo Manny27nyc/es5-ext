@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 "use strict";
 
 var isConcatSpreadable = require("es6-symbol").isConcatSpreadable

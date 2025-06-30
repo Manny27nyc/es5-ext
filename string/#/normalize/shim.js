@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /* eslint no-bitwise: "off", max-statements: "off", max-lines: "off" */
 
 // Taken from: https://github.com/walling/unorm/blob/master/lib/unorm.js

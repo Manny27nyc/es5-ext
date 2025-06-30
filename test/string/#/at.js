@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /* eslint no-useless-call: "off" */
 // See tests at https://github.com/mathiasbynens/String.prototype.at
 

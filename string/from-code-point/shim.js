@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 // Based on:
 // http://norbertlindenberg.com/2012/05/ecmascript-supplementary-characters/
 // and:

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /* eslint max-lines: "off", no-sparse-arrays: "off", comma-style: "off" */
 
 "use strict";

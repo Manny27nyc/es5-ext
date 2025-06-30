@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 // Implementation credits go to:
 // http://wiki.ecmascript.org/doku.php?id=harmony:egal
 

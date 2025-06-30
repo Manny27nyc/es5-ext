@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /* global Float32Array */
 
 // Credit: https://github.com/paulmillr/es6-shim/blob/master/es6-shim.js

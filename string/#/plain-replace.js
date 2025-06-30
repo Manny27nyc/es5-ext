@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 "use strict";
 
 var indexOf = String.prototype.indexOf, slice = String.prototype.slice;

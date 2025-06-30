@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 // Based on: https://github.com/mathiasbynens/String.prototype.at
 // Thanks @mathiasbynens !
 

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 // Taken from: https://github.com/mathiasbynens/String.fromCodePoint/blob/master
 //             /tests/tests.js
 

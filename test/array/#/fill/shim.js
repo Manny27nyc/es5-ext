@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 // Taken from https://github.com/paulmillr/es6-shim/blob/master/test/array.js
 
 "use strict";

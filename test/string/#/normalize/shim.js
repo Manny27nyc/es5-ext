@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 // Taken from: https://github.com/walling/unorm/blob/master/test/es6-shim.js
 
 "use strict";

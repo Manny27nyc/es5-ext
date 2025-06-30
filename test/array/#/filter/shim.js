@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 "use strict";
 
 var SubArray = require("../../../../array/_sub-array-dummy-safe");

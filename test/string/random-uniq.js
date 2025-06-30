@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 "use strict";
 
 var isValidFormat = RegExp.prototype.test.bind(/^[a-z0-9]+$/);

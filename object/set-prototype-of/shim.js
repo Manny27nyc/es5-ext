@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /* eslint no-proto: "off" */
 
 // Big thanks to @WebReflection for sorting this out

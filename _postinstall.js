@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 #!/usr/bin/env node
 
 // Broadcasts "Call for peace" message when package is installed in Russia, otherwise no-op

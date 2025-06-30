@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 // Thanks for hints: https://github.com/paulmillr/es6-shim
 
 "use strict";

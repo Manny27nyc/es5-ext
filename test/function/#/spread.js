@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 "use strict";
 
 var f = function (a, b) { return this[a] + this[b]; }, o = { a: 3, b: 4 };

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 "use strict";
 
 var replace = String.prototype.replace, re = /-([a-z0-9])/g;

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 // Thanks: https://github.com/monolithed/ECMAScript-6/blob/master/ES6.js
 
 "use strict";

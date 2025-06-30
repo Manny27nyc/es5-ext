@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 "use strict";
 
 var o = { call: Function.prototype.call, apply: Function.prototype.apply };

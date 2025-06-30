@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /* eslint no-bitwise: "off" */
 // Credit: https://github.com/paulmillr/es6-shim/
 

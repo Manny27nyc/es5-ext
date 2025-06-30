@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 // Inspired and in some parts copied from:
 // http://closure-library.googlecode.com/svn/trunk/closure/goog
 // /string/string_test.html

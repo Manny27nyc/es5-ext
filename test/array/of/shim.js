@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /* eslint no-useless-call: "off" */
 // Most tests taken from https://github.com/mathiasbynens/Array.of/blob/master/tests/tests.js
 // Thanks @mathiasbynens

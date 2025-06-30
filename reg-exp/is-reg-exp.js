@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 "use strict";
 
 var objToString = Object.prototype.toString, id = objToString.call(/a/);
